@@ -11,6 +11,7 @@ function Nav() {
           >
             {title}
           </h2>;
+          console.log(title)
         })}
       </div>
     </nav>
